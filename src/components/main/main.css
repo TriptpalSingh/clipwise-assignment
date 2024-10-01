@@ -1,0 +1,29 @@
+.main--heading-text{
+  color: rgba(49, 84, 109, 1);
+}
+
+.main--arrangement-rectangle{
+  border: 3px solid rgba(50, 84, 109, 1);
+}
+
+.main--arrangement-filter-text-left,
+.main--arrangement-sort-text-left{
+  color: rgba(154, 176, 192, 1);
+  line-height: 40px
+}
+
+.main--arrangement-filter-text-right,
+.main--arrangement-sort-text-right{
+  cursor: pointer;
+  color: rgba(49, 84, 109, 1);
+  line-height: 40px
+}
+
+.main--viewall-btn{
+  border: 2px solid #6FB4FF;
+  color: #6FB4FF;
+}
+.main--viewall-btn:hover{
+  background: linear-gradient(90deg, #75CCEB 0%, #6FB4FF 100%);
+  color: #ffffff;
+}

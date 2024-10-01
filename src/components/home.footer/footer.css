@@ -1,0 +1,77 @@
+.bottom-div{
+  background: rgba(10, 41, 77, 0.8);
+}
+
+.footer--left{
+  z-index: 10;
+}
+
+.footer--left-heading{
+  color: rgba(49, 84, 109, 1);
+  line-height: 90px;
+  font-size: 70px;
+}
+
+.footer--left-heading-top{
+  line-height: 65px;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+
+.footer--left-heading-bottom{
+  line-height: 65px;
+  font-size: 64px;
+  font-weight: 700;
+}
+
+.footer--left-price-cutprice{
+  color: rgba(65, 160, 183, 1);
+  line-height: 70px;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+
+.footer--left-price-realprice{
+  color: rgba(227, 91, 62, 1);
+  line-height: 90px;
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.footer--left-para-span{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: rgba(49, 84, 109, 1);
+}
+
+.footer--left-buy-btn{
+  background: linear-gradient(90deg, #75CCEB 0%, #6FB4FF 100%);
+  color: #ffffff;
+}
+
+.footer--right{
+  overflow: hidden;
+  width: 700px !important;
+  z-index: 10;
+}
+
+.center-with-flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer--right-outer-circle{
+  margin-left: -25px;
+  background-color: rgba(255,255,255, 0.3);
+}
+
+.footer--right-middle-circle,
+.footer--right-inner-circle{
+  box-shadow: 0 0 40px rgba(0,0,0,0.1);
+  background: white;
+}

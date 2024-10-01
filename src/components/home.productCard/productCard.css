@@ -1,0 +1,19 @@
+.productcard--outer{
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border: 1px solid rgba(0,0,0,0.2)
+}
+
+.productCard--info > span:nth-child(2){
+  color: rgba(49, 84, 109, 1);
+}
+
+.productCard--buy-btn{
+  border: 2px solid #6FB4FF;
+  color: #6FB4FF;
+}
+
+
+.productCard--buy-btn:hover{
+  background: linear-gradient(90deg, #75CCEB 0%, #6FB4FF 100%);
+  color: #ffffff;
+}
