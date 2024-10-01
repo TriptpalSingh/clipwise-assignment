@@ -26,7 +26,7 @@ function ProductCard(props) {
 
   return (
     <>
-      <div className='productcard--outer w-[320px] h-[410px] m-5 font-sans rounded-3xl flex flex-col justify-around items-center'>
+      <div className='productcard--outer w-[320px] h-[410px] m-10 font-sans rounded-3xl flex flex-col justify-around items-center'>
         <div className='productcard--image w-full h-[200px] '>
           <img className='w-[200px] h-[200px] mx-auto' src='./assets/rock.png' />
         </div>
